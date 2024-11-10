@@ -1,0 +1,212 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hory_\\OneDrive\\Escritorio\\HORACIO_ORTIZ\\Parcial02\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{01F0ADFF-8ECE-428A-BF64-42C524C6545B}|BLL\\BLL.csproj|c:\\users\\hory_\\onedrive\\escritorio\\horacio_ortiz\\parcial02\\bll\\estudiantebll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01F0ADFF-8ECE-428A-BF64-42C524C6545B}|BLL\\BLL.csproj|solutionrelative:bll\\estudiantebll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3D462E3-667E-46D0-AE3C-B37CC564A330}|UI\\UI.csproj|c:\\users\\hory_\\onedrive\\escritorio\\horacio_ortiz\\parcial02\\ui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3D462E3-667E-46D0-AE3C-B37CC564A330}|UI\\UI.csproj|solutionrelative:ui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3D462E3-667E-46D0-AE3C-B37CC564A330}|UI\\UI.csproj|C:\\Users\\hory_\\OneDrive\\Escritorio\\HORACIO_ORTIZ\\Parcial02\\ui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B3D462E3-667E-46D0-AE3C-B37CC564A330}|UI\\UI.csproj|solutionrelative:ui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E92648D-B0DA-4FD2-9452-9BBB725AA10B}|Mapper\\Mapper.csproj|c:\\users\\hory_\\onedrive\\escritorio\\horacio_ortiz\\parcial02\\mapper\\estudiantemapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E92648D-B0DA-4FD2-9452-9BBB725AA10B}|Mapper\\Mapper.csproj|solutionrelative:mapper\\estudiantemapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE345ABA-54BD-4C02-9A0A-883CB26FB449}|DAL\\DAL.csproj|c:\\users\\hory_\\onedrive\\escritorio\\horacio_ortiz\\parcial02\\dal\\estudiantedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE345ABA-54BD-4C02-9A0A-883CB26FB449}|DAL\\DAL.csproj|solutionrelative:dal\\estudiantedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE345ABA-54BD-4C02-9A0A-883CB26FB449}|DAL\\DAL.csproj|c:\\users\\hory_\\onedrive\\escritorio\\horacio_ortiz\\parcial02\\dal\\cursodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE345ABA-54BD-4C02-9A0A-883CB26FB449}|DAL\\DAL.csproj|solutionrelative:dal\\cursodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E92648D-B0DA-4FD2-9452-9BBB725AA10B}|Mapper\\Mapper.csproj|c:\\users\\hory_\\onedrive\\escritorio\\horacio_ortiz\\parcial02\\mapper\\cursomapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E92648D-B0DA-4FD2-9452-9BBB725AA10B}|Mapper\\Mapper.csproj|solutionrelative:mapper\\cursomapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A00513CE-D61F-4C09-AD96-8157F55473C1}|Entity\\Entity.csproj|c:\\users\\hory_\\onedrive\\escritorio\\horacio_ortiz\\parcial02\\entity\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A00513CE-D61F-4C09-AD96-8157F55473C1}|Entity\\Entity.csproj|solutionrelative:entity\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A00513CE-D61F-4C09-AD96-8157F55473C1}|Entity\\Entity.csproj|c:\\users\\hory_\\onedrive\\escritorio\\horacio_ortiz\\parcial02\\entity\\curso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A00513CE-D61F-4C09-AD96-8157F55473C1}|Entity\\Entity.csproj|solutionrelative:entity\\curso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE345ABA-54BD-4C02-9A0A-883CB26FB449}|DAL\\DAL.csproj|c:\\users\\hory_\\onedrive\\escritorio\\horacio_ortiz\\parcial02\\dal\\conexiondb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE345ABA-54BD-4C02-9A0A-883CB26FB449}|DAL\\DAL.csproj|solutionrelative:dal\\conexiondb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3D462E3-667E-46D0-AE3C-B37CC564A330}|UI\\UI.csproj|c:\\users\\hory_\\onedrive\\escritorio\\horacio_ortiz\\parcial02\\ui\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3D462E3-667E-46D0-AE3C-B37CC564A330}|UI\\UI.csproj|solutionrelative:ui\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3D462E3-667E-46D0-AE3C-B37CC564A330}|UI\\UI.csproj|c:\\users\\hory_\\onedrive\\escritorio\\horacio_ortiz\\parcial02\\ui\\ui.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{B3D462E3-667E-46D0-AE3C-B37CC564A330}|UI\\UI.csproj|solutionrelative:ui\\ui.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 271,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\hory_\\OneDrive\\Escritorio\\HORACIO_ORTIZ\\Parcial02\\UI\\Form1.cs",
+              "RelativeDocumentMoniker": "UI\\Form1.cs",
+              "ToolTip": "C:\\Users\\hory_\\OneDrive\\Escritorio\\HORACIO_ORTIZ\\Parcial02\\UI\\Form1.cs",
+              "RelativeToolTip": "UI\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T21:47:04.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EstudianteMapper.cs",
+              "DocumentMoniker": "C:\\Users\\hory_\\OneDrive\\Escritorio\\HORACIO_ORTIZ\\Parcial02\\Mapper\\EstudianteMapper.cs",
+              "RelativeDocumentMoniker": "Mapper\\EstudianteMapper.cs",
+              "ToolTip": "C:\\Users\\hory_\\OneDrive\\Escritorio\\HORACIO_ORTIZ\\Parcial02\\Mapper\\EstudianteMapper.cs",
+              "RelativeToolTip": "Mapper\\EstudianteMapper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T21:43:00.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EstudianteBLL.cs",
+              "DocumentMoniker": "C:\\Users\\hory_\\OneDrive\\Escritorio\\HORACIO_ORTIZ\\Parcial02\\BLL\\EstudianteBLL.cs",
+              "RelativeDocumentMoniker": "BLL\\EstudianteBLL.cs",
+              "ToolTip": "C:\\Users\\hory_\\OneDrive\\Escritorio\\HORACIO_ORTIZ\\Parcial02\\BLL\\EstudianteBLL.cs",
+              "RelativeToolTip": "BLL\\EstudianteBLL.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowAcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T21:46:21.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EstudianteDAL.cs",
+              "DocumentMoniker": "C:\\Users\\hory_\\OneDrive\\Escritorio\\HORACIO_ORTIZ\\Parcial02\\DAL\\EstudianteDAL.cs",
+              "RelativeDocumentMoniker": "DAL\\EstudianteDAL.cs",
+              "ToolTip": "C:\\Users\\hory_\\OneDrive\\Escritorio\\HORACIO_ORTIZ\\Parcial02\\DAL\\EstudianteDAL.cs",
+              "RelativeToolTip": "DAL\\EstudianteDAL.cs",
+              "ViewState": "AgIAAHcAAAAAAAAAAAAIwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T21:44:27.426Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\hory_\\OneDrive\\Escritorio\\HORACIO_ORTIZ\\Parcial02\\UI\\Form1.cs",
+              "RelativeDocumentMoniker": "UI\\Form1.cs",
+              "ToolTip": "C:\\Users\\hory_\\OneDrive\\Escritorio\\Parcial02\\Parcial02\\UI\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\Parcial02\\Parcial02\\UI\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T20:55:21.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CursoDAL.cs",
+              "DocumentMoniker": "C:\\Users\\hory_\\OneDrive\\Escritorio\\HORACIO_ORTIZ\\Parcial02\\DAL\\CursoDAL.cs",
+              "RelativeDocumentMoniker": "DAL\\CursoDAL.cs",
+              "ToolTip": "C:\\Users\\hory_\\OneDrive\\Escritorio\\HORACIO_ORTIZ\\Parcial02\\DAL\\CursoDAL.cs",
+              "RelativeToolTip": "DAL\\CursoDAL.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAowAYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T21:44:12.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CursoMapper.cs",
+              "DocumentMoniker": "C:\\Users\\hory_\\OneDrive\\Escritorio\\HORACIO_ORTIZ\\Parcial02\\Mapper\\CursoMapper.cs",
+              "RelativeDocumentMoniker": "Mapper\\CursoMapper.cs",
+              "ToolTip": "C:\\Users\\hory_\\OneDrive\\Escritorio\\HORACIO_ORTIZ\\Parcial02\\Mapper\\CursoMapper.cs",
+              "RelativeToolTip": "Mapper\\CursoMapper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T21:41:50.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Estudiante.cs",
+              "DocumentMoniker": "C:\\Users\\hory_\\OneDrive\\Escritorio\\HORACIO_ORTIZ\\Parcial02\\Entity\\Estudiante.cs",
+              "RelativeDocumentMoniker": "Entity\\Estudiante.cs",
+              "ToolTip": "C:\\Users\\hory_\\OneDrive\\Escritorio\\HORACIO_ORTIZ\\Parcial02\\Entity\\Estudiante.cs",
+              "RelativeToolTip": "Entity\\Estudiante.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T21:41:06.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Curso.cs",
+              "DocumentMoniker": "C:\\Users\\hory_\\OneDrive\\Escritorio\\HORACIO_ORTIZ\\Parcial02\\Entity\\Curso.cs",
+              "RelativeDocumentMoniker": "Entity\\Curso.cs",
+              "ToolTip": "C:\\Users\\hory_\\OneDrive\\Escritorio\\HORACIO_ORTIZ\\Parcial02\\Entity\\Curso.cs",
+              "RelativeToolTip": "Entity\\Curso.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T21:40:36.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ConexionDB.cs",
+              "DocumentMoniker": "C:\\Users\\hory_\\OneDrive\\Escritorio\\HORACIO_ORTIZ\\Parcial02\\DAL\\ConexionDB.cs",
+              "RelativeDocumentMoniker": "DAL\\ConexionDB.cs",
+              "ToolTip": "C:\\Users\\hory_\\OneDrive\\Escritorio\\HORACIO_ORTIZ\\Parcial02\\DAL\\ConexionDB.cs",
+              "RelativeToolTip": "DAL\\ConexionDB.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T20:58:04.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\hory_\\OneDrive\\Escritorio\\HORACIO_ORTIZ\\Parcial02\\UI\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "UI\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\hory_\\OneDrive\\Escritorio\\HORACIO_ORTIZ\\Parcial02\\UI\\Form1.Designer.cs",
+              "RelativeToolTip": "UI\\Form1.Designer.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAEwF0AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T22:17:42.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UI",
+              "DocumentMoniker": "C:\\Users\\hory_\\OneDrive\\Escritorio\\HORACIO_ORTIZ\\Parcial02\\UI\\UI.csproj",
+              "RelativeDocumentMoniker": "UI\\UI.csproj",
+              "ToolTip": "C:\\Users\\hory_\\OneDrive\\Escritorio\\HORACIO_ORTIZ\\Parcial02\\UI\\UI.csproj",
+              "RelativeToolTip": "UI\\UI.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-10T21:00:02.275Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
